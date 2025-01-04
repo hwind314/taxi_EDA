@@ -12,3 +12,6 @@ html file of jupyter notebook
 
 taxi_profile_report.html
 html file of Pandas profile report from taxi_eda.ipynb
+
+taxi_presentation.pdf
+presentaion of eda findings
